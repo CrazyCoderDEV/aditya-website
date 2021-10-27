@@ -44,7 +44,7 @@ const Page = () => {
           align="center"
           mb={6}
         >
-          Hello! I&apos;m an software developer based on Bangladesh.
+          Hello! I'm an software developer based on Bangladesh.
         </Box>
 
         <Box display={{ md: `flex` }}>
