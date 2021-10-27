@@ -67,7 +67,7 @@ const LinkItem = ({ href, path, _target, children, ...props }) => {
           >
             <LinkItem
               _target="_blank"
-              href="https://github.com/CrazyCoderDEV"
+              href="https://github.com/CrazyCoderDEV/aditya-website"
               path={path}
               display="inline-flex"
               alignItems="center"

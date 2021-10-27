@@ -7,6 +7,7 @@ import {
   List,
   ListItem,
   Link,
+  useColorModeValue,
   Icon,
 } from '@chakra-ui/react'
 import Section from '../components/section'
@@ -39,7 +40,7 @@ const Page = () => {
         </Box>
         <Box
           borderRadius="lg"
-          bg="teal.800"
+          bg="teal.600"
           p={3}
           align="center"
           mb={6}
