@@ -2,14 +2,12 @@ import {
   Container,
   Box,
   Heading,
-  useColorModeValue,
   SimpleGrid,
   Button,
   List,
   ListItem,
   Link,
-  Icon, 
-  Image
+  Icon,
 } from '@chakra-ui/react'
 import Section from '../components/section'
 import styled from '@emotion/styled'
