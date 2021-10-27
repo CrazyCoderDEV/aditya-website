@@ -45,7 +45,7 @@ const Page = () => {
           align="center"
           mb={6}
         >
-          Hello! I&apos;m an software developer based on Bangladesh.
+          Hello! I&apos;m a software developer based on Bangladesh.
         </Box>
 
         <Box display={{ md: `flex` }}>
@@ -94,7 +94,7 @@ const Page = () => {
           </Heading>
           <p>
             I am a small software developer in Dhaka. Just doing my 7th grades!
-            In 2008 at the age of 10 I found out how to code and I imiedietly
+            In 2018 at the age of 10 I found out how to code and I imiedietly
             fell in love with it.I see myself in a nice comfortable spot in the
             college in the next 5 years. When not online I like to read books
             and play video games with my friends. I also like to play chess!
