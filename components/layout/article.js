@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion'
 import Head from 'next/head'
 import { GridItemStyle } from '../grid-item'
-import favicon from "E:/Aditya's personal website/aditya-homepage/public/favicon.ico"
 
 const variants = {
   hidden: { opacity: 0, x: 0, y: 20 },
@@ -21,7 +20,7 @@ const Layout = ({ children, title }) => (
     <>
       {title && (
         <Head>
-          <title href={favicon}>{title} - Aditya Bhattacharjee</title>
+          <title>{title} - Aditya Bhattacharjee</title>
           <meta name="twitter:title" content={title} />
           <meta property="og:title" content={title} />
         </Head>
